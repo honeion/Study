@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.math.BigInteger"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.time.Instant"/>
+    <fullyQualifiedTypeName name="java.sql.Time"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="item02.NutritionFacts"/>
+    <fullyQualifiedTypeName name="item02.NutritionFacts.Builder"/>
+    <fullyQualifiedTypeName name="java.util.EnumSet"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.axes.SelfIteratorNoPredicate"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.Pizza.Builder"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.NyPizza.Builder"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.NyPizza"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.NyPizza.Size"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.Pizza.Topping"/>
+    <fullyQualifiedTypeName name="sun.util.resources.CalendarData"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.Calzone"/>
+    <fullyQualifiedTypeName name="item02.hierarchicalBuilder.Calzone.Builder"/>
+    <fullyQualifiedTypeName name="item03.Elvis"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.lang.AssertionError"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+</qualifiedTypeNameHistroy>
